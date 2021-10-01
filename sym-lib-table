@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name adapter)(type Legacy)(uri ${KIPRJMOD}/adapter.lib)(options "")(descr ""))
+  (lib (name IS66WVE4M16TBLL-70BLI)(type Legacy)(uri ${KIPRJMOD}/IS66WVE4M16TBLL-70BLI.lib)(options "")(descr ""))
+)
